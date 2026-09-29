@@ -1,4 +1,5 @@
 # MPLC_Alignment_Project
+GPU accelerated but robust enough to work any GPU or CPU without modification
 Simulation only - no lab data
 Scalar diffraction theory is used to simulate Hermite-Gaussian propagation through a batch of MPLCs given misalignment parameters and a batch of phase mask configurations
 The PyTorch Adam optimiser is used alongside learning rate scheduling to estimate what those misalignment parameters were
